@@ -1,0 +1,26 @@
+.about-project-slide {
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+}
+
+.about-project-slide img {
+  height: 100px;
+  color: white;
+}
+
+.about-me-slide img {
+  max-width: 50%;
+}
+
+img {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.reveal {
+  background: url("../assets/inpeek_logo.png");
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: right 20px top 20px;
+}
